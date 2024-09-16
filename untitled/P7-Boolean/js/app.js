@@ -12,3 +12,30 @@ console.log(isTeenager)
 console.log(isAdult)
 
 
+
+let playerTouchGround = true;
+let playerHasJetPack = false;
+
+if (playerTouchGround) {
+console.log("player is on the ground.");
+console.log("player can jump.");
+}
+
+else if (playerHasJetPack) {
+  console.log("Player can jet Away");
+}
+
+else  {
+  console.log("player is NOT on the ground!");
+  console.log("player CANNOT jump!");
+}
+
+
+
+
+
+
+
+
+
+
