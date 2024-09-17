@@ -3,7 +3,6 @@ function doubleNumber (numberToDouble) {
 }
 doubleNumber(4); // Output: 8
 
-
 function multiplyNumber (numberToMultiply) {
   return numberToMultiply * numberToMultiply;
 }
@@ -68,3 +67,4 @@ function evoulation (firstNumber, secondNumber) {
 }
 }
 console.log(evoulation(312, 412));
+
